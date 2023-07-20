@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there 👋, I'm Soumyajit Koley</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -28,6 +27,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit-koley&" alt="soumyajit-koley" /></p>
 
 <!--
+### Hi there 👋
+
 **Soumyajit-Koley/Soumyajit-Koley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
