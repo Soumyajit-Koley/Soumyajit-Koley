@@ -1,4 +1,4 @@
-<div class="banner" style="display: flex; justify-content: center;"><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello%20world%20banner.png" alt="logo" style="max-width: 100%; "></a></div>
+<div class="banner" style="display: flex; justify-content: center;"><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello%20world%20banner%202.png" alt="logo" style="max-width: 100%; "></a></div>
 <h1 align="center">Hi there 👋, I'm Soumyajit Koley</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
