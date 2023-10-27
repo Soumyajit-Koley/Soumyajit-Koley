@@ -21,6 +21,8 @@
 
 - 💬 Ask me about **HTML, CSS**
 
+- 🖇 Follow me on <a href="https://www.linkedin.com/in/soumyajit-koley/" rel="nofollow">LinkedIn</a>
+
 - 😄 Pronouns: He/Him
 
 <!-- <h3 align="left">Connect with me:</h3>
