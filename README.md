@@ -11,7 +11,7 @@
 
 <!-- <h3 align="center">A passionate programmer </h3> -->
 
-<img alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" style=" margin: 12px 10px 10px 0px; width: 300px; display: inline-block;" data-target="animated-image.originalImage" align="right">
+<img alt="coding" src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif" style=" margin: 12px 10px 10px 0px; width: 300px; display: inline-block;" data-target="animated-image.originalImage" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit-koley&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit-koley" /> </p>
 
