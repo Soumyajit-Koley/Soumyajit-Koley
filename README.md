@@ -3,8 +3,9 @@
 
 <!-- Typing svg  -->
 
+<div class="typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=01C540&vCenter=true&random=false&width=750&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a></div>
 
-<div class="typing-svg" style="margin-left: 1rem;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=11C53F&vCenter=true&random=false&width=475&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a></div>
+<!-- <div class="typing-svg" style="margin-left: 1rem;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=11C53F&vCenter=true&random=false&width=475&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a></div> -->
  
 
 <!-- <h3 align="center">A passionate programmer </h3> -->
