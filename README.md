@@ -1,4 +1,4 @@
-<div class="banner" style="display: flex; justify-content: center; margin-bottom: 15px; "><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello%20world%20banner%202.png" alt="Hello World !!" style="max-width: 100%; "></a></div>
+<div class="banner" style="display: flex; justify-content: center; margin-bottom: 15px; "><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/helloworld.gif" alt="Hello World !!" style="max-width: 100%; "></a></div>
 
 <!-- <h1 align="center">Hi there 👋 </h1> -->
 
