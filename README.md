@@ -1,7 +1,9 @@
 <div class="banner" style="display: flex; justify-content: center;"><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello%20world%20banner%202.png" alt="Hello World !!" style="max-width: 100%; "></a></div>
-<h1 align="center">Hi there 👋 </h1>
+<!-- <h1 align="center">Hi there 👋 </h1> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11C53F&vCenter=true&random=false&width=475&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a>
+<!-- Typing svg  -->
+
+<div class="typing-svg" style="margin-left: 1rem;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=11C53F&vCenter=true&random=false&width=475&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a></div>
 
 <!-- <h3 align="center">A passionate programmer </h3> -->
 
