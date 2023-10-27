@@ -1,6 +1,8 @@
 <div class="banner" style="display: flex; justify-content: center;"><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello%20world%20banner%202.png" alt="Hello World !!" style="max-width: 100%; "></a></div>
 <h1 align="center">Hi there 👋 </h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11C53F&vCenter=true&random=false&width=475&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a>
+
 <!-- <h3 align="center">A passionate programmer </h3> -->
 
 <img alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" style=" margin: 12px 10px 10px 0px; width: 300px; display: inline-block;" data-target="animated-image.originalImage" align="right">
