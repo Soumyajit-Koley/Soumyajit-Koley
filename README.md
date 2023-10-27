@@ -1,6 +1,7 @@
 <div class="banner" style="display: flex; justify-content: center;"><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello%20world%20banner%202.png" alt="Hello World !!" style="max-width: 100%; "></a></div>
-<h1 align="center">Hi there 👋, I'm Soumyajit Koley</h1>
-<h3 align="center">A passionate programmer </h3>
+<h1 align="center">Hi there 👋 </h1>
+
+<!-- <h3 align="center">A passionate programmer </h3> -->
 
 <img alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" style=" margin: 12px 10px 10px 0px; width: 300px; display: inline-block;" data-target="animated-image.originalImage" align="right">
 
