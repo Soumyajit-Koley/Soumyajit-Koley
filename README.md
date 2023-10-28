@@ -8,6 +8,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<img alt="coding" src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif" style=" margin: 12px 10px 10px 0px; width: 300px; display: inline-block;" data-target="animated-image.originalImage" align="right">
+
 
 
 ## 🌐 Socials:
