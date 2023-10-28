@@ -1,3 +1,7 @@
+# 👥 Profile View:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit-koley&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit-koley" /> </p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
