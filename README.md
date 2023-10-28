@@ -1,5 +1,7 @@
 <div class="banner" style="display: flex; justify-content: center; margin-bottom: 15px; "><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello-world.gif" alt="Hello World !!" style="max-width: 100%; "></a></div>
 
+<div class="typing-svg" style="margin: 4px 0 ; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195);border-bottom: 2px solid rgb(207, 195, 195);><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=01C540&vCenter=true&random=false&width=750&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a></div>
+
 # 👥 Profile View:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit-koley&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit-koley" /> </p>
 
