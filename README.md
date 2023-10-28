@@ -1,3 +1,4 @@
+
 <div class="banner" style="display: flex; justify-content: center; margin-bottom: 15px; "><a href="https://github.com/Soumyajit-Koley/" target="_blank" rel="noreferrer"><img src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/hello-world.gif" alt="Hello World !!" style="max-width: 100%; "></a></div>
 
 <div class="typing-svg" style="margin: 4px 0 ; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195);border-bottom: 2px solid rgb(207, 195, 195);><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=01C540&vCenter=true&random=false&width=750&height=65&lines=This+is+Soumyajit+Koley;A+passionate+programmer;Currently+I'm+exploring+Web+Development" alt="Typing SVG" /></a></div>
@@ -8,9 +9,16 @@
 
 # 💫 About Me:
 <img alt="coding" src="https://github.com/Soumyajit-Koley/Utility/blob/main/Readme%20banner/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif" style=" margin: 12px 10px 10px 0px; width: 300px; display: inline-block;" data-target="animated-image.originalImage" align="right">
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+- 🔭 I’m currently working on [Amazone clone project](https://soumyajit-koley.github.io/amazon-clone.github.io/)
 
+- 🌱 I’m currently learning **HTML, CSS, Tailwind CSS**
+
+- 💬 Ask me about **HTML, CSS**
+
+- 🖇 Follow me on <a href="https://www.linkedin.com/in/soumyajit-koley/" rel="nofollow">LinkedIn</a>
+
+- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
