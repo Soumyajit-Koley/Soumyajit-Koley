@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/soumyajit-koley)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,netlify,github,git,tailwind,c&theme=dark)](https://github.com/Soumyajit-Koley/Soumyajit-Koley)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,netlify,github,git,tailwind,replit,c&theme=dark)](https://github.com/Soumyajit-Koley/Soumyajit-Koley)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Soumyajit-Koley&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
