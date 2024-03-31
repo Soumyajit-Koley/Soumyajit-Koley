@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Amazone clone project](https://soumyajit-koley.github.io/amazon-clone.github.io/)
 
-- 🌱 I’m currently learning **HTML, CSS, Tailwind CSS**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **HTML, CSS, C, C++**
 
